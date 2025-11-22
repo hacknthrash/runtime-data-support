@@ -1,0 +1,16 @@
+# Ignore decrypted and original resource folders
+original/
+decrypt/
+
+# Python venv
+venv/
+
+# macOS noise
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
